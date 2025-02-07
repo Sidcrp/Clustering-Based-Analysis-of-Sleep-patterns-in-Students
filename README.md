@@ -1,7 +1,5 @@
 # Clustering-Based-Analysis-of-Sleep-patterns-in-Students
 
-# Student Sleeping Patterns Clustering and Analysis
-
 ## Project Overview
 
 This project focuses on the analysis and clustering of **student sleep patterns** based on various sleep-related features. The dataset comprises information from **500+ students**, including factors such as **age**, **gender**, **university year**, **sleep duration**, and lifestyle habits like **study hours**, **screen time**, and **caffeine intake**. The goal is to apply **unsupervised learning** techniques, specifically **KMeans clustering**, to identify distinct sleep behaviors among students. **Principal Component Analysis (PCA)** is used for dimensionality reduction, optimizing computational efficiency, and retaining essential data characteristics. The clustering performance is evaluated using the **Silhouette Score** to measure the quality of the clusters.
